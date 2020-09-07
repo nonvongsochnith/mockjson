@@ -1,0 +1,1790 @@
+{
+  data: [
+    {
+      id: 1,
+      lotNumber: "23380259",
+      odometer: "0 mi EXEMPT",
+      auctionDate: "2020-05-21T01:00:00+00:00",
+      source: "COPART",
+      branch: "WY - CASPER",
+      detailUrl: "https://www.copart.com/lot/23380259",
+      lossType: null,
+      name: "2010 HONDA CR-V EX",
+      saleDocument: "WY CERTIFICATE OF TITLE ",
+      stock: null,
+      thumbnailUrl:
+        "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX133/63d54580-8611-4a23-bcc4-3d618c0dc528.JPG",
+      transmission: "AUTOMATIC",
+      vin: "5J6RE4H51AL019991",
+      brand: "COPART",
+      externalId: null,
+      make: "HONDA",
+      bodyStyle: "4DR SPOR",
+      cylinders: "4",
+      drive: "All wheel drive",
+      engine: "2.4L  4",
+      fuelType: "GAS",
+      madeIn: null,
+      model: "CR-V EX",
+      options: null,
+      series: null,
+      type: "AUTOMOBILE",
+      supplementaryFiles: [
+        {
+          id: 41,
+          contentFile: null,
+          contentPath: null,
+          type: "THUMBNAIL",
+          url:
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX133/63d54580-8611-4a23-bcc4-3d618c0dc528.JPG",
+        },
+        {
+          id: 42,
+          contentFile: null,
+          contentPath: null,
+          type: "THUMBNAIL",
+          url:
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX133/7eba7474-2143-4a05-a3f4-717ecaafd9a8.JPG",
+        },
+        {
+          id: 43,
+          contentFile: null,
+          contentPath: null,
+          type: "THUMBNAIL",
+          url:
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX133/74b74010-4f70-4b61-8c29-956444a910fa.JPG",
+        },
+        {
+          id: 44,
+          contentFile: null,
+          contentPath: null,
+          type: "THUMBNAIL",
+          url:
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX133/ce945f13-d35d-42b2-8c86-a07009204a16.JPG",
+        },
+        {
+          id: 45,
+          contentFile: null,
+          contentPath: null,
+          type: "THUMBNAIL",
+          url:
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX133/e4f2423b-1752-479a-8e82-62640c065401.JPG",
+        },
+        {
+          id: 46,
+          contentFile: null,
+          contentPath: null,
+          type: "THUMBNAIL",
+          url:
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX133/0dc179b0-1706-4b7e-8973-0a2c842d4417.JPG",
+        },
+        {
+          id: 47,
+          contentFile: null,
+          contentPath: null,
+          type: "THUMBNAIL",
+          url:
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX133/707bed82-7a56-4453-98d2-ae5bf41930a2.JPG",
+        },
+        {
+          id: 48,
+          contentFile: null,
+          contentPath: null,
+          type: "THUMBNAIL",
+          url:
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX133/4fac02f6-67fe-41dc-8f68-fa0473864402.JPG",
+        },
+        {
+          id: 49,
+          contentFile: null,
+          contentPath: null,
+          type: "THUMBNAIL",
+          url:
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX133/645ff74b-9c05-4a5c-a676-196493f61522.JPG",
+        },
+        {
+          id: 50,
+          contentFile: null,
+          contentPath: null,
+          type: "THUMBNAIL",
+          url:
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX133/547dbea8-ee50-46af-9a29-5290a777bba0.JPG",
+        },
+        {
+          id: 51,
+          contentFile: null,
+          contentPath: null,
+          type: "FULL_IMG",
+          url:
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX133/86a47d24-d63e-4943-9ffb-e26512fee79d.JPG",
+        },
+        {
+          id: 52,
+          contentFile: null,
+          contentPath: null,
+          type: "FULL_IMG",
+          url:
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX133/972c028e-c1be-4211-9fe3-e62ee8ae42df.JPG",
+        },
+        {
+          id: 53,
+          contentFile: null,
+          contentPath: null,
+          type: "FULL_IMG",
+          url:
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX133/7ba3ab78-1c1e-4fbc-bd43-50eb6e6ede07.JPG",
+        },
+        {
+          id: 54,
+          contentFile: null,
+          contentPath: null,
+          type: "FULL_IMG",
+          url:
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX133/53efd172-b439-4532-9cf0-72093e41df40.JPG",
+        },
+        {
+          id: 55,
+          contentFile: null,
+          contentPath: null,
+          type: "FULL_IMG",
+          url:
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX133/67ab44a5-5243-48f9-b393-cb46ce05d5d0.JPG",
+        },
+        {
+          id: 56,
+          contentFile: null,
+          contentPath: null,
+          type: "FULL_IMG",
+          url:
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX133/4a7fcb1f-9a87-4efe-b749-a90c8bfac7f1.JPG",
+        },
+        {
+          id: 57,
+          contentFile: null,
+          contentPath: null,
+          type: "FULL_IMG",
+          url:
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX133/fce73983-622f-43fb-a8dd-db88ad2a17eb.JPG",
+        },
+        {
+          id: 58,
+          contentFile: null,
+          contentPath: null,
+          type: "FULL_IMG",
+          url:
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX133/b40df41c-5dd5-4cd1-8df1-937d0375e730.JPG",
+        },
+        {
+          id: 59,
+          contentFile: null,
+          contentPath: null,
+          type: "FULL_IMG",
+          url:
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX133/690fc32c-01c6-4a9d-83ba-4903a4929aeb.JPG",
+        },
+        {
+          id: 60,
+          contentFile: null,
+          contentPath: null,
+          type: "FULL_IMG",
+          url:
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX133/29782f70-876b-4919-bb30-d0ab4a1ce156.JPG",
+        },
+      ],
+      damage: "ROLLOVER",
+      year: "2010",
+      biddingRequests: [
+        {
+          id: 2,
+          auctionFee: null,
+          ucShippingFee: 300,
+          documentFee: 50,
+          bidAmount: 100,
+          wpUserId: 18,
+          vehicle: 1,
+          status: "NEW",
+          createdAt: "2020-07-01T12:21:24+00:00",
+          updatedAt: "2020-07-01T12:21:24+00:00",
+        },
+      ],
+      currentBid: 70,
+      currentUcShippingBid: 100,
+      maxBid: null,
+      estRetailValue: 9505,
+      highlight: "ENHANCED VEHICLES",
+      vehicleKey: "YES",
+      location: null,
+      ucShippingFee: null,
+      documentFee: null,
+    },
+    {
+      id: 2,
+      lotNumber: "23400598",
+      odometer: "0 mi EXEMPT",
+      auctionDate: "2020-04-15T01:00:00+00:00",
+      source: "COPART",
+      branch: "AB - CALGARY",
+      detailUrl: "https://www.copart.com/lot/23400598",
+      lossType: null,
+      name: "2009 HYUNDAI SONATA GLS",
+      saleDocument: "AB BOS - SALVAGE ",
+      stock: null,
+      thumbnailUrl:
+        "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX117/0941218a-4350-4f8f-9b6b-3d2af6544acd.JPG",
+      transmission: "AUTOMATIC",
+      vin: "5NPET46C89H534109",
+      brand: "COPART",
+      externalId: null,
+      make: "HYUNDAI",
+      bodyStyle: "SEDAN 4D",
+      cylinders: "4",
+      drive: "Front-wheel Drive",
+      engine: "2.4L  4",
+      fuelType: "GAS",
+      madeIn: null,
+      model: "SONATA GLS",
+      options: null,
+      series: null,
+      type: "AUTOMOBILE",
+      supplementaryFiles: [
+        {
+          id: 61,
+          contentFile: null,
+          contentPath: null,
+          type: "THUMBNAIL",
+          url:
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX117/0941218a-4350-4f8f-9b6b-3d2af6544acd.JPG",
+        },
+        {
+          id: 62,
+          contentFile: null,
+          contentPath: null,
+          type: "THUMBNAIL",
+          url:
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX117/01512619-3506-4597-8e4e-d633c4844762.JPG",
+        },
+        {
+          id: 63,
+          contentFile: null,
+          contentPath: null,
+          type: "THUMBNAIL",
+          url:
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX117/11148726-3359-4fd0-89ff-dbdbaa25f9a1.JPG",
+        },
+        {
+          id: 64,
+          contentFile: null,
+          contentPath: null,
+          type: "THUMBNAIL",
+          url:
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX117/379e0dad-a4da-491f-bd54-6798730080b5.JPG",
+        },
+        {
+          id: 65,
+          contentFile: null,
+          contentPath: null,
+          type: "THUMBNAIL",
+          url:
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX117/96f6542e-d1e1-44db-b2f8-d3bc64acdc2f.JPG",
+        },
+        {
+          id: 66,
+          contentFile: null,
+          contentPath: null,
+          type: "THUMBNAIL",
+          url:
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX117/14098c43-8b66-49e4-8aca-68431bf11739.JPG",
+        },
+        {
+          id: 67,
+          contentFile: null,
+          contentPath: null,
+          type: "THUMBNAIL",
+          url:
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX117/83ef7bdb-f000-49fb-9239-6694b7dcbb52.JPG",
+        },
+        {
+          id: 68,
+          contentFile: null,
+          contentPath: null,
+          type: "THUMBNAIL",
+          url:
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX117/eb489645-9c2e-4a0b-9026-11808c84b620.JPG",
+        },
+        {
+          id: 69,
+          contentFile: null,
+          contentPath: null,
+          type: "THUMBNAIL",
+          url:
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX117/3cb3c9c8-0cee-43b5-8304-c578badc31cf.JPG",
+        },
+        {
+          id: 70,
+          contentFile: null,
+          contentPath: null,
+          type: "THUMBNAIL",
+          url:
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX117/7fb93706-8594-4c41-ac40-198ba4092003.JPG",
+        },
+        {
+          id: 71,
+          contentFile: null,
+          contentPath: null,
+          type: "FULL_IMG",
+          url:
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX117/02be4761-fa33-420c-b315-ce9fe3c52097.JPG",
+        },
+        {
+          id: 72,
+          contentFile: null,
+          contentPath: null,
+          type: "FULL_IMG",
+          url:
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX117/acea5e61-328e-431c-94b6-f6e9431727cb.JPG",
+        },
+        {
+          id: 73,
+          contentFile: null,
+          contentPath: null,
+          type: "FULL_IMG",
+          url:
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX117/fb90b3b4-003e-4a7e-b8e9-658e9abbc7d6.JPG",
+        },
+        {
+          id: 74,
+          contentFile: null,
+          contentPath: null,
+          type: "FULL_IMG",
+          url:
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX117/1f5b5583-d259-44b7-a647-ade425889ce7.JPG",
+        },
+        {
+          id: 75,
+          contentFile: null,
+          contentPath: null,
+          type: "FULL_IMG",
+          url:
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX117/90545807-162b-4526-8038-6c1517a707eb.JPG",
+        },
+        {
+          id: 76,
+          contentFile: null,
+          contentPath: null,
+          type: "FULL_IMG",
+          url:
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX117/06658eea-65ab-49b3-96b0-da9dd65dc8b7.JPG",
+        },
+        {
+          id: 77,
+          contentFile: null,
+          contentPath: null,
+          type: "FULL_IMG",
+          url:
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX117/8915e01c-41eb-42d8-95ce-a5a2e1404f9d.JPG",
+        },
+        {
+          id: 78,
+          contentFile: null,
+          contentPath: null,
+          type: "FULL_IMG",
+          url:
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX117/2279eaaa-983b-41b2-9157-623698d1ec82.JPG",
+        },
+        {
+          id: 79,
+          contentFile: null,
+          contentPath: null,
+          type: "FULL_IMG",
+          url:
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX117/9c355a07-956b-433c-b69d-aadadedfbee3.JPG",
+        },
+        {
+          id: 80,
+          contentFile: null,
+          contentPath: null,
+          type: "FULL_IMG",
+          url:
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX117/b7537dc6-bddf-406b-a46f-b16b274145df.JPG",
+        },
+      ],
+      damage: "FRONT END",
+      year: "2009",
+      biddingRequests: [],
+      currentBid: 90,
+      currentUcShippingBid: null,
+      maxBid: null,
+      estRetailValue: 5132,
+      highlight: "ENHANCED VEHICLES",
+      vehicleKey: "YES",
+      location: null,
+      ucShippingFee: null,
+      documentFee: null,
+    },
+    {
+      id: 3,
+      lotNumber: "23403459",
+      odometer: "75435 mi EXEMPT",
+      auctionDate: "2020-04-28T21:00:00+00:00",
+      source: "COPART",
+      branch: "FL - OCALA",
+      detailUrl: "https://www.copart.com/lot/23403459",
+      lossType: null,
+      name: "1975 CHEVROLET CORVETTE",
+      saleDocument: "NJ CERTIFICATE OF TITLE ",
+      stock: null,
+      thumbnailUrl:
+        "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX133/f4b4372c-ff78-430c-8e12-54bdcd144c2e.JPG",
+      transmission: "AUTOMATIC",
+      vin: "1237J5S432633",
+      brand: "COPART",
+      externalId: null,
+      make: "CHEVROLET",
+      bodyStyle: null,
+      cylinders: null,
+      drive: null,
+      engine: null,
+      fuelType: null,
+      madeIn: null,
+      model: "CORVETTE",
+      options: null,
+      series: null,
+      type: "AUTOMOBILE",
+      supplementaryFiles: [
+        {
+          id: 81,
+          contentFile: null,
+          contentPath: null,
+          type: "THUMBNAIL",
+          url:
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX133/f4b4372c-ff78-430c-8e12-54bdcd144c2e.JPG",
+        },
+        {
+          id: 82,
+          contentFile: null,
+          contentPath: null,
+          type: "THUMBNAIL",
+          url:
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX133/9236df7a-0e38-4d00-b9dc-497371c1f452.JPG",
+        },
+        {
+          id: 83,
+          contentFile: null,
+          contentPath: null,
+          type: "THUMBNAIL",
+          url:
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX133/b0c8e200-6938-493e-b066-7c7fdb4f02b0.JPG",
+        },
+        {
+          id: 84,
+          contentFile: null,
+          contentPath: null,
+          type: "THUMBNAIL",
+          url:
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX133/a3070db6-1dea-476e-93b6-f1018fca5d8e.JPG",
+        },
+        {
+          id: 85,
+          contentFile: null,
+          contentPath: null,
+          type: "THUMBNAIL",
+          url:
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX133/80385fc3-58c8-4da6-85a0-eddb59b8190f.JPG",
+        },
+        {
+          id: 86,
+          contentFile: null,
+          contentPath: null,
+          type: "THUMBNAIL",
+          url:
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX133/5acd686a-13a6-49da-bf14-7936ba376351.JPG",
+        },
+        {
+          id: 87,
+          contentFile: null,
+          contentPath: null,
+          type: "THUMBNAIL",
+          url:
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX133/72c2afca-d9c0-48cf-8dec-d7b85539b85e.JPG",
+        },
+        {
+          id: 88,
+          contentFile: null,
+          contentPath: null,
+          type: "THUMBNAIL",
+          url:
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX133/31e8312d-fda1-4faf-95f1-045cb8416054.JPG",
+        },
+        {
+          id: 89,
+          contentFile: null,
+          contentPath: null,
+          type: "THUMBNAIL",
+          url:
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX133/489112fc-8998-428c-b0eb-f09ca467d127.JPG",
+        },
+        {
+          id: 90,
+          contentFile: null,
+          contentPath: null,
+          type: "THUMBNAIL",
+          url:
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX133/5cf58d83-804d-43b1-ad30-6f2044847730.JPG",
+        },
+        {
+          id: 91,
+          contentFile: null,
+          contentPath: null,
+          type: "FULL_IMG",
+          url:
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX133/ed7d0dee-a48c-49ec-93ab-5ee503ca5fc5.JPG",
+        },
+        {
+          id: 92,
+          contentFile: null,
+          contentPath: null,
+          type: "FULL_IMG",
+          url:
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX133/bd57336a-1707-44ad-bb4a-f669cf3c12ee.JPG",
+        },
+        {
+          id: 93,
+          contentFile: null,
+          contentPath: null,
+          type: "FULL_IMG",
+          url:
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX133/02356f9b-c868-4f53-8d70-7b099437edc0.JPG",
+        },
+        {
+          id: 94,
+          contentFile: null,
+          contentPath: null,
+          type: "FULL_IMG",
+          url:
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX133/0beebf76-3042-4617-b6e1-cde1c6bf95a2.JPG",
+        },
+        {
+          id: 95,
+          contentFile: null,
+          contentPath: null,
+          type: "FULL_IMG",
+          url:
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX133/c6a75ba8-0cae-4ee0-95c6-ba92686cb5e5.JPG",
+        },
+        {
+          id: 96,
+          contentFile: null,
+          contentPath: null,
+          type: "FULL_IMG",
+          url:
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX133/e53a3798-59ea-4c8f-a1eb-45b47f7d8c6f.JPG",
+        },
+        {
+          id: 97,
+          contentFile: null,
+          contentPath: null,
+          type: "FULL_IMG",
+          url:
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX133/72992faf-cbf1-48ab-abb0-343d73652cac.JPG",
+        },
+        {
+          id: 98,
+          contentFile: null,
+          contentPath: null,
+          type: "FULL_IMG",
+          url:
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX133/1dba967b-1d95-46de-acc9-b758aa377d17.JPG",
+        },
+        {
+          id: 99,
+          contentFile: null,
+          contentPath: null,
+          type: "FULL_IMG",
+          url:
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX133/3d55b7cf-4ee1-4278-a412-cc761258e63d.JPG",
+        },
+        {
+          id: 100,
+          contentFile: null,
+          contentPath: null,
+          type: "FULL_IMG",
+          url:
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX133/c586483b-154b-42b1-a188-daefa16776a9.JPG",
+        },
+      ],
+      damage: "FRONT END",
+      year: "1975",
+      biddingRequests: [],
+      currentBid: 2050,
+      currentUcShippingBid: null,
+      maxBid: null,
+      estRetailValue: 14908,
+      highlight: "ENHANCED VEHICLES",
+      vehicleKey: "YES",
+      location: null,
+      ucShippingFee: null,
+      documentFee: null,
+    },
+    {
+      id: 4,
+      lotNumber: "23405299",
+      odometer: "0 mi",
+      auctionDate: null,
+      source: "COPART",
+      branch: "AB - CALGARY",
+      detailUrl: "https://www.copart.com/lot/23405299",
+      lossType: null,
+      name: "2013 RAM 1500 SPORT",
+      saleDocument: null,
+      stock: null,
+      thumbnailUrl:
+        "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX165/5ed10c4a-f37f-4d26-bf1e-1b0e8a185e84.JPG",
+      transmission: null,
+      vin: "1C6RR7MT3DS614018",
+      brand: "COPART",
+      externalId: null,
+      make: "RAM",
+      bodyStyle: null,
+      cylinders: "8",
+      drive: "4x4 w/Rear Wheel Drv",
+      engine: "5.7L  8",
+      fuelType: "GAS",
+      madeIn: null,
+      model: "1500 SPORT",
+      options: null,
+      series: null,
+      type: "AUTOMOBILE",
+      supplementaryFiles: [],
+      damage: "SIDE",
+      year: "2013",
+      biddingRequests: [
+        {
+          id: 5,
+          auctionFee: null,
+          ucShippingFee: 300,
+          documentFee: 50,
+          bidAmount: 1000,
+          wpUserId: 36,
+          vehicle: 4,
+          status: "NEW",
+          createdAt: "2020-07-20T17:00:10+00:00",
+          updatedAt: "2020-07-20T17:00:10+00:00",
+        },
+      ],
+      currentBid: null,
+      currentUcShippingBid: 1000,
+      maxBid: null,
+      estRetailValue: null,
+      highlight: null,
+      vehicleKey: null,
+      location: null,
+      ucShippingFee: null,
+      documentFee: null,
+    },
+    {
+      id: 5,
+      lotNumber: "23408039",
+      odometer: "125138 mi EXEMPT",
+      auctionDate: "2020-05-09T00:00:00+00:00",
+      source: "COPART",
+      branch: "TX - HOUSTON",
+      detailUrl: "https://www.copart.com/lot/23408039",
+      lossType: null,
+      name: "2010 CHEVROLET TRAVERSE LT",
+      saleDocument: "TX SALVAGE VEHICLE TITLE ",
+      stock: null,
+      thumbnailUrl:
+        "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX133/a48a207c-87f1-42ea-8038-cfa910189dbb.JPG",
+      transmission: "AUTOMATIC",
+      vin: "1GNLVGEDXAS124955",
+      brand: "COPART",
+      externalId: null,
+      make: "CHEVROLET",
+      bodyStyle: "4DR SPOR",
+      cylinders: "6",
+      drive: "All wheel drive",
+      engine: "3.6L  6",
+      fuelType: "GAS",
+      madeIn: null,
+      model: "TRAVERSE L",
+      options: null,
+      series: null,
+      type: "AUTOMOBILE",
+      supplementaryFiles: [
+        {
+          id: 101,
+          contentFile: null,
+          contentPath: null,
+          type: "THUMBNAIL",
+          url:
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX133/a48a207c-87f1-42ea-8038-cfa910189dbb.JPG",
+        },
+        {
+          id: 102,
+          contentFile: null,
+          contentPath: null,
+          type: "THUMBNAIL",
+          url:
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX133/71563b39-3f12-41c6-a1ae-600e629ae60f.JPG",
+        },
+        {
+          id: 103,
+          contentFile: null,
+          contentPath: null,
+          type: "THUMBNAIL",
+          url:
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX133/c0f9176d-8dda-4d10-9a6e-90e28b4bc23e.JPG",
+        },
+        {
+          id: 104,
+          contentFile: null,
+          contentPath: null,
+          type: "THUMBNAIL",
+          url:
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX133/2075798c-0dfd-41f9-a37d-5d2b0c611753.JPG",
+        },
+        {
+          id: 105,
+          contentFile: null,
+          contentPath: null,
+          type: "THUMBNAIL",
+          url:
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX133/a1a89dcb-4119-4615-a505-b3bd226dd00f.JPG",
+        },
+        {
+          id: 106,
+          contentFile: null,
+          contentPath: null,
+          type: "THUMBNAIL",
+          url:
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX133/365c99e3-5afe-430b-b693-829801d76c82.JPG",
+        },
+        {
+          id: 107,
+          contentFile: null,
+          contentPath: null,
+          type: "THUMBNAIL",
+          url:
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX133/dc3c3d7b-5833-4933-8603-81872f424900.JPG",
+        },
+        {
+          id: 108,
+          contentFile: null,
+          contentPath: null,
+          type: "THUMBNAIL",
+          url:
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX133/9dad9fa5-8f1f-4321-9598-161534acf7cf.JPG",
+        },
+        {
+          id: 109,
+          contentFile: null,
+          contentPath: null,
+          type: "THUMBNAIL",
+          url:
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX133/ca1c7ca9-bce0-41c6-9e78-ffaf6e636d96.JPG",
+        },
+        {
+          id: 110,
+          contentFile: null,
+          contentPath: null,
+          type: "THUMBNAIL",
+          url:
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX133/0da90ec4-1bf1-42e4-b796-fbeb7b8a3d5a.JPG",
+        },
+        {
+          id: 111,
+          contentFile: null,
+          contentPath: null,
+          type: "FULL_IMG",
+          url:
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX133/bd82245a-948d-4954-81ee-4797360b8bb9.JPG",
+        },
+        {
+          id: 112,
+          contentFile: null,
+          contentPath: null,
+          type: "FULL_IMG",
+          url:
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX133/10766e63-41a4-4805-b997-49a343c81086.JPG",
+        },
+        {
+          id: 113,
+          contentFile: null,
+          contentPath: null,
+          type: "FULL_IMG",
+          url:
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX133/111a3cb1-f3af-401a-bb0a-13661fa6793a.JPG",
+        },
+        {
+          id: 114,
+          contentFile: null,
+          contentPath: null,
+          type: "FULL_IMG",
+          url:
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX133/ed06629e-e90e-440c-b136-7d9e78caa16e.JPG",
+        },
+        {
+          id: 115,
+          contentFile: null,
+          contentPath: null,
+          type: "FULL_IMG",
+          url:
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX133/59230626-207e-4ad6-a7dc-3d2173ee1ba0.JPG",
+        },
+        {
+          id: 116,
+          contentFile: null,
+          contentPath: null,
+          type: "FULL_IMG",
+          url:
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX133/e8f206a2-0573-4783-9767-10055c3c4762.JPG",
+        },
+        {
+          id: 117,
+          contentFile: null,
+          contentPath: null,
+          type: "FULL_IMG",
+          url:
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX133/c838ba40-df55-4892-aabb-0e5220d5f3d5.JPG",
+        },
+        {
+          id: 118,
+          contentFile: null,
+          contentPath: null,
+          type: "FULL_IMG",
+          url:
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX133/e7ece61d-71d1-493a-bdb7-744230342180.JPG",
+        },
+        {
+          id: 119,
+          contentFile: null,
+          contentPath: null,
+          type: "FULL_IMG",
+          url:
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX133/31ade161-7484-4e6d-b600-706ca5d65109.JPG",
+        },
+        {
+          id: 120,
+          contentFile: null,
+          contentPath: null,
+          type: "FULL_IMG",
+          url:
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX133/dd903800-f190-4322-a99a-96964f620249.JPG",
+        },
+      ],
+      damage: "FRONT END",
+      year: "2010",
+      biddingRequests: [
+        {
+          id: 3,
+          auctionFee: null,
+          ucShippingFee: 300,
+          documentFee: 50,
+          bidAmount: 1000,
+          wpUserId: 28,
+          vehicle: 5,
+          status: "NEW",
+          createdAt: "2020-07-20T16:52:55+00:00",
+          updatedAt: "2020-07-20T16:52:55+00:00",
+        },
+      ],
+      currentBid: 1900,
+      currentUcShippingBid: 1000,
+      maxBid: null,
+      estRetailValue: 7809,
+      highlight: "RUNS AND DRIVES",
+      vehicleKey: "YES",
+      location: null,
+      ucShippingFee: null,
+      documentFee: null,
+    },
+    {
+      id: 6,
+      lotNumber: "23410339",
+      odometer: "0 mi NOT ACTUAL",
+      auctionDate: "2020-05-28T00:00:00+00:00",
+      source: "COPART",
+      branch: "TX - ANDREWS",
+      detailUrl: "https://www.copart.com/lot/23410339",
+      lossType: null,
+      name: "2016 CHEVROLET SILVERADO K1500 LT",
+      saleDocument: "TX SALVAGE VEHICLE TITLE ",
+      stock: null,
+      thumbnailUrl:
+        "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX133/57e736f8-7e78-4a8a-bb51-c01e2b75a069.JPG",
+      transmission: null,
+      vin: "3GCUKREC1GG185362",
+      brand: "COPART",
+      externalId: null,
+      make: "CHEVROLET",
+      bodyStyle: "CREW PIC",
+      cylinders: "8",
+      drive: "4x4 w/Rear Wheel Drv",
+      engine: "5.3L  8",
+      fuelType: "GAS",
+      madeIn: null,
+      model: "SILVERADO",
+      options: null,
+      series: null,
+      type: "AUTOMOBILE",
+      supplementaryFiles: [
+        {
+          id: 121,
+          contentFile: null,
+          contentPath: null,
+          type: "THUMBNAIL",
+          url:
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX133/57e736f8-7e78-4a8a-bb51-c01e2b75a069.JPG",
+        },
+        {
+          id: 122,
+          contentFile: null,
+          contentPath: null,
+          type: "THUMBNAIL",
+          url:
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX133/7a624d93-b165-44ea-9f3f-ce26a435fd41.JPG",
+        },
+        {
+          id: 123,
+          contentFile: null,
+          contentPath: null,
+          type: "THUMBNAIL",
+          url:
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX133/e0238ee4-e216-4c59-a153-e7200ad1555f.JPG",
+        },
+        {
+          id: 124,
+          contentFile: null,
+          contentPath: null,
+          type: "THUMBNAIL",
+          url:
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX133/5b647c29-caa8-4f5e-9f96-7fd285d9545e.JPG",
+        },
+        {
+          id: 125,
+          contentFile: null,
+          contentPath: null,
+          type: "THUMBNAIL",
+          url:
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX133/b6bb8461-df8c-4261-8593-d29e76f10f5b.JPG",
+        },
+        {
+          id: 126,
+          contentFile: null,
+          contentPath: null,
+          type: "THUMBNAIL",
+          url:
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX133/123e0d20-9d67-463d-9b6b-0ca95e50b1b7.JPG",
+        },
+        {
+          id: 127,
+          contentFile: null,
+          contentPath: null,
+          type: "THUMBNAIL",
+          url:
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX133/4cb42045-177c-4cfd-bddc-4aaf3b6208b6.JPG",
+        },
+        {
+          id: 128,
+          contentFile: null,
+          contentPath: null,
+          type: "THUMBNAIL",
+          url:
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX133/84417953-d006-4181-930c-6c5dbc8f8621.JPG",
+        },
+        {
+          id: 129,
+          contentFile: null,
+          contentPath: null,
+          type: "THUMBNAIL",
+          url:
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX133/163f2dc3-8ca2-4ef6-afa6-423dd35f97d4.JPG",
+        },
+        {
+          id: 130,
+          contentFile: null,
+          contentPath: null,
+          type: "THUMBNAIL",
+          url:
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX133/cf5d51fd-fb9d-46c5-93ec-234b6158a85f.JPG",
+        },
+        {
+          id: 131,
+          contentFile: null,
+          contentPath: null,
+          type: "FULL_IMG",
+          url:
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX133/de0758c9-06b8-4b29-92c2-382438e1de28.JPG",
+        },
+        {
+          id: 132,
+          contentFile: null,
+          contentPath: null,
+          type: "FULL_IMG",
+          url:
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX133/6c738f38-f572-4f62-8253-b63ee4159977.JPG",
+        },
+        {
+          id: 133,
+          contentFile: null,
+          contentPath: null,
+          type: "FULL_IMG",
+          url:
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX133/4555fa29-a124-4b74-af56-5e3322ade0f8.JPG",
+        },
+        {
+          id: 134,
+          contentFile: null,
+          contentPath: null,
+          type: "FULL_IMG",
+          url:
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX133/bc9db61f-494c-4d07-ab97-dc187967fee7.JPG",
+        },
+        {
+          id: 135,
+          contentFile: null,
+          contentPath: null,
+          type: "FULL_IMG",
+          url:
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX133/0edf12e9-0f2f-4509-ad27-362af462a1cd.JPG",
+        },
+        {
+          id: 136,
+          contentFile: null,
+          contentPath: null,
+          type: "FULL_IMG",
+          url:
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX133/bb39b4a5-d671-4a88-8f0d-be096237d6da.JPG",
+        },
+        {
+          id: 137,
+          contentFile: null,
+          contentPath: null,
+          type: "FULL_IMG",
+          url:
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX133/3e031977-a5d8-4775-b143-e38a76c302ad.JPG",
+        },
+        {
+          id: 138,
+          contentFile: null,
+          contentPath: null,
+          type: "FULL_IMG",
+          url:
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX133/964bec12-3e60-4607-9c49-eeb9b6e0bf44.JPG",
+        },
+        {
+          id: 139,
+          contentFile: null,
+          contentPath: null,
+          type: "FULL_IMG",
+          url:
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX133/659e1d60-817e-4103-9a36-f57151503537.JPG",
+        },
+        {
+          id: 140,
+          contentFile: null,
+          contentPath: null,
+          type: "FULL_IMG",
+          url:
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX133/1d1e61d1-3898-4348-8df0-b8404fee2ea0.JPG",
+        },
+      ],
+      damage: "FRONT END",
+      year: "2016",
+      biddingRequests: [
+        {
+          id: 4,
+          auctionFee: null,
+          ucShippingFee: 300,
+          documentFee: 50,
+          bidAmount: 675,
+          wpUserId: 29,
+          vehicle: 6,
+          status: "NEW",
+          createdAt: "2020-07-20T16:57:16+00:00",
+          updatedAt: "2020-07-20T16:57:16+00:00",
+        },
+      ],
+      currentBid: 8200,
+      currentUcShippingBid: 675,
+      maxBid: null,
+      estRetailValue: 29214,
+      highlight: "ENHANCED VEHICLES",
+      vehicleKey: "YES",
+      location: null,
+      ucShippingFee: null,
+      documentFee: null,
+    },
+    {
+      id: 7,
+      lotNumber: "23414259",
+      odometer: "142064 mi ACTUAL",
+      auctionDate: "2020-05-12T21:00:00+00:00",
+      source: "COPART",
+      branch: "CT - HARTFORD",
+      detailUrl: "https://www.copart.com/lot/23414259",
+      lossType: null,
+      name: "2008 SUBARU OUTBACK ",
+      saleDocument: "WI CERTIFICATE OF TITLE ",
+      stock: null,
+      thumbnailUrl:
+        "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX133/61cc8cd1-df2a-4b4c-bf34-fc94d27f88f1.JPG",
+      transmission: "AUTOMATIC",
+      vin: "4S4BP60C787312283",
+      brand: "COPART",
+      externalId: null,
+      make: "SUBARU",
+      bodyStyle: "4DR SPOR",
+      cylinders: "4",
+      drive: "All wheel drive",
+      engine: "2.5L  4",
+      fuelType: "GAS",
+      madeIn: null,
+      model: "OUTBACK",
+      options: null,
+      series: null,
+      type: "AUTOMOBILE",
+      supplementaryFiles: [
+        {
+          id: 141,
+          contentFile: null,
+          contentPath: null,
+          type: "THUMBNAIL",
+          url:
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX133/61cc8cd1-df2a-4b4c-bf34-fc94d27f88f1.JPG",
+        },
+        {
+          id: 142,
+          contentFile: null,
+          contentPath: null,
+          type: "THUMBNAIL",
+          url:
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX133/d2de624c-2162-4807-a821-af50efbd4c2b.JPG",
+        },
+        {
+          id: 143,
+          contentFile: null,
+          contentPath: null,
+          type: "THUMBNAIL",
+          url:
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX133/ae4e3efe-8af9-46eb-9027-214217690dba.JPG",
+        },
+        {
+          id: 144,
+          contentFile: null,
+          contentPath: null,
+          type: "THUMBNAIL",
+          url:
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX133/7ec60637-ef13-4905-964d-0f89d18331cb.JPG",
+        },
+        {
+          id: 145,
+          contentFile: null,
+          contentPath: null,
+          type: "THUMBNAIL",
+          url:
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX133/73fac48f-a811-4ac8-8a25-38b0c084bf6f.JPG",
+        },
+        {
+          id: 146,
+          contentFile: null,
+          contentPath: null,
+          type: "THUMBNAIL",
+          url:
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX133/0ac945eb-fcd7-4c80-8286-a7e0a6a2aefb.JPG",
+        },
+        {
+          id: 147,
+          contentFile: null,
+          contentPath: null,
+          type: "THUMBNAIL",
+          url:
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX133/080ceb65-74a6-421c-b568-ca163d2c0b55.JPG",
+        },
+        {
+          id: 148,
+          contentFile: null,
+          contentPath: null,
+          type: "THUMBNAIL",
+          url:
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX133/bd82af68-d5a7-4c8e-909b-066f1175b78b.JPG",
+        },
+        {
+          id: 149,
+          contentFile: null,
+          contentPath: null,
+          type: "THUMBNAIL",
+          url:
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX133/38f9a110-51ac-4ab4-9f04-12a616cad8b6.JPG",
+        },
+        {
+          id: 150,
+          contentFile: null,
+          contentPath: null,
+          type: "THUMBNAIL",
+          url:
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX133/71988c40-7655-4049-85a4-7a7da6865242.JPG",
+        },
+        {
+          id: 151,
+          contentFile: null,
+          contentPath: null,
+          type: "FULL_IMG",
+          url:
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX133/4ee00e81-8156-4182-bace-7208fbd4083e.JPG",
+        },
+        {
+          id: 152,
+          contentFile: null,
+          contentPath: null,
+          type: "FULL_IMG",
+          url:
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX133/3d9fc7dc-4d3e-4370-b3dd-3ffb66332cf7.JPG",
+        },
+        {
+          id: 153,
+          contentFile: null,
+          contentPath: null,
+          type: "FULL_IMG",
+          url:
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX133/27e81edd-942f-4727-b1dd-7b59817c56bc.JPG",
+        },
+        {
+          id: 154,
+          contentFile: null,
+          contentPath: null,
+          type: "FULL_IMG",
+          url:
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX133/80e42609-7aed-4d6f-8c29-d21614c6ffeb.JPG",
+        },
+        {
+          id: 155,
+          contentFile: null,
+          contentPath: null,
+          type: "FULL_IMG",
+          url:
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX133/e5c1f241-9032-4486-a953-ca137a39c0d6.JPG",
+        },
+        {
+          id: 156,
+          contentFile: null,
+          contentPath: null,
+          type: "FULL_IMG",
+          url:
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX133/4e0653bd-ceff-4458-9757-94449ec4ef2a.JPG",
+        },
+        {
+          id: 157,
+          contentFile: null,
+          contentPath: null,
+          type: "FULL_IMG",
+          url:
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX133/dbe8df96-14f2-4a90-8332-0669550268ac.JPG",
+        },
+        {
+          id: 158,
+          contentFile: null,
+          contentPath: null,
+          type: "FULL_IMG",
+          url:
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX133/4ba18039-c557-4e56-ac9b-0fb218c1a143.JPG",
+        },
+        {
+          id: 159,
+          contentFile: null,
+          contentPath: null,
+          type: "FULL_IMG",
+          url:
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX133/b3e8672d-ab7f-4e96-8521-35aa7594f0b9.JPG",
+        },
+        {
+          id: 160,
+          contentFile: null,
+          contentPath: null,
+          type: "FULL_IMG",
+          url:
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX133/59d0c49e-31f3-42e9-9fe6-a9d807382756.JPG",
+        },
+      ],
+      damage: "FRONT END",
+      year: "2008",
+      biddingRequests: [],
+      currentBid: 325,
+      currentUcShippingBid: null,
+      maxBid: null,
+      estRetailValue: 6501,
+      highlight: "RUNS AND DRIVES",
+      vehicleKey: "YES",
+      location: null,
+      ucShippingFee: null,
+      documentFee: null,
+    },
+    {
+      id: 8,
+      lotNumber: "23415359",
+      odometer: "19000 mi",
+      auctionDate: null,
+      source: "COPART",
+      branch: "MI - DETROIT",
+      detailUrl: "https://www.copart.com/lot/23415359",
+      lossType: null,
+      name: "2013 MERCEDES-BENZ E 350",
+      saleDocument: null,
+      stock: null,
+      thumbnailUrl:
+        "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX57/9329156c-a11d-480b-a480-a99f3ecd9078.JPG",
+      transmission: null,
+      vin: "WDDHF5KB9DA667667",
+      brand: "COPART",
+      externalId: null,
+      make: "MERCEDES-BENZ",
+      bodyStyle: "SEDAN 4D",
+      cylinders: "6",
+      drive: "Rear-wheel drive",
+      engine: "3.5L  6",
+      fuelType: "GAS",
+      madeIn: null,
+      model: "E350",
+      options: null,
+      series: null,
+      type: "AUTOMOBILE",
+      supplementaryFiles: [],
+      damage: "REAR END",
+      year: "2013",
+      biddingRequests: [],
+      currentBid: null,
+      currentUcShippingBid: null,
+      maxBid: null,
+      estRetailValue: null,
+      highlight: null,
+      vehicleKey: null,
+      location: null,
+      ucShippingFee: null,
+      documentFee: null,
+    },
+    {
+      id: 9,
+      lotNumber: "23424979",
+      odometer: "142449 mi ACTUAL",
+      auctionDate: "2020-05-13T00:00:00+00:00",
+      source: "COPART",
+      branch: "MN - MINNEAPOLIS NORTH",
+      detailUrl: "https://www.copart.com/lot/23424979",
+      lossType: null,
+      name: "2003 VOLKSWAGEN JETTA GLS",
+      saleDocument: "MN CERTIFICATE OF TITLE ",
+      stock: null,
+      thumbnailUrl:
+        "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX133/91d4db8a-039b-44bf-89da-f2c9d8504a3c.JPG",
+      transmission: "MANUAL",
+      vin: "WVWSE61J03W097853",
+      brand: "COPART",
+      externalId: null,
+      make: "VOLKSWAGEN",
+      bodyStyle: "STATION",
+      cylinders: "4",
+      drive: "Front-wheel Drive",
+      engine: "1.8L  4",
+      fuelType: "GAS",
+      madeIn: null,
+      model: "JETTA GLS",
+      options: null,
+      series: null,
+      type: "AUTOMOBILE",
+      supplementaryFiles: [
+        {
+          id: 161,
+          contentFile: null,
+          contentPath: null,
+          type: "THUMBNAIL",
+          url:
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX133/91d4db8a-039b-44bf-89da-f2c9d8504a3c.JPG",
+        },
+        {
+          id: 162,
+          contentFile: null,
+          contentPath: null,
+          type: "THUMBNAIL",
+          url:
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX133/c3a5dd83-182b-4af6-99c5-e8f6a624f4ae.JPG",
+        },
+        {
+          id: 163,
+          contentFile: null,
+          contentPath: null,
+          type: "THUMBNAIL",
+          url:
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX133/350dc3a1-c338-4f50-80df-85f23777f6f9.JPG",
+        },
+        {
+          id: 164,
+          contentFile: null,
+          contentPath: null,
+          type: "THUMBNAIL",
+          url:
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX133/2e55e09c-dc6a-4fa9-b275-a6169829c5e0.JPG",
+        },
+        {
+          id: 165,
+          contentFile: null,
+          contentPath: null,
+          type: "THUMBNAIL",
+          url:
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX133/ba821147-3961-47a9-8bac-82789cc21744.JPG",
+        },
+        {
+          id: 166,
+          contentFile: null,
+          contentPath: null,
+          type: "THUMBNAIL",
+          url:
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX133/3b497ec6-e24b-4c72-a725-1a2e270e5236.JPG",
+        },
+        {
+          id: 167,
+          contentFile: null,
+          contentPath: null,
+          type: "THUMBNAIL",
+          url:
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX133/4424ecc1-d5d7-41ea-af25-99cd4be2c373.JPG",
+        },
+        {
+          id: 168,
+          contentFile: null,
+          contentPath: null,
+          type: "THUMBNAIL",
+          url:
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX133/b215b918-f843-42c4-9b09-6cac93c899df.JPG",
+        },
+        {
+          id: 169,
+          contentFile: null,
+          contentPath: null,
+          type: "THUMBNAIL",
+          url:
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX133/c73c44ad-002d-4e46-b100-199059a78014.JPG",
+        },
+        {
+          id: 170,
+          contentFile: null,
+          contentPath: null,
+          type: "THUMBNAIL",
+          url:
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX133/1efc88ec-2ef8-4b44-98c4-4ed04b2c8d9f.JPG",
+        },
+        {
+          id: 171,
+          contentFile: null,
+          contentPath: null,
+          type: "FULL_IMG",
+          url:
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX133/ece399b7-b870-49cd-820b-ce8f507e86b7.JPG",
+        },
+        {
+          id: 172,
+          contentFile: null,
+          contentPath: null,
+          type: "FULL_IMG",
+          url:
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX133/b5068759-9772-496a-b154-6a5efb6b7a91.JPG",
+        },
+        {
+          id: 173,
+          contentFile: null,
+          contentPath: null,
+          type: "FULL_IMG",
+          url:
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX133/58f33ef0-9f70-4a87-9150-da5ca9b20b56.JPG",
+        },
+        {
+          id: 174,
+          contentFile: null,
+          contentPath: null,
+          type: "FULL_IMG",
+          url:
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX133/2a50dc9f-b332-4fc0-90ee-875ce9418aa0.JPG",
+        },
+        {
+          id: 175,
+          contentFile: null,
+          contentPath: null,
+          type: "FULL_IMG",
+          url:
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX133/86363cad-8230-4973-9424-50ca88b1ccbd.JPG",
+        },
+        {
+          id: 176,
+          contentFile: null,
+          contentPath: null,
+          type: "FULL_IMG",
+          url:
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX133/d3f914b2-8993-4375-a536-bd1bedb6cc33.JPG",
+        },
+        {
+          id: 177,
+          contentFile: null,
+          contentPath: null,
+          type: "FULL_IMG",
+          url:
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX133/0cbc7f59-037d-4364-b0be-59cbfd9e825b.JPG",
+        },
+        {
+          id: 178,
+          contentFile: null,
+          contentPath: null,
+          type: "FULL_IMG",
+          url:
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX133/c14bdbe9-b432-4bf2-8350-cafb862240a2.JPG",
+        },
+        {
+          id: 179,
+          contentFile: null,
+          contentPath: null,
+          type: "FULL_IMG",
+          url:
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX133/84eba938-66c0-4f36-98a1-e3fb21d299b1.JPG",
+        },
+        {
+          id: 180,
+          contentFile: null,
+          contentPath: null,
+          type: "FULL_IMG",
+          url:
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX133/4ecbffa5-8954-4d70-9ab4-04baeb238b5e.JPG",
+        },
+      ],
+      damage: "FRONT END",
+      year: "2003",
+      biddingRequests: [],
+      currentBid: 1050,
+      currentUcShippingBid: null,
+      maxBid: null,
+      estRetailValue: 3484,
+      highlight: "RUNS AND DRIVES",
+      vehicleKey: "YES",
+      location: null,
+      ucShippingFee: null,
+      documentFee: null,
+    },
+    {
+      id: 10,
+      lotNumber: "23438969",
+      odometer: "0 mi NOT ACTUAL",
+      auctionDate: "2020-04-22T00:00:00+00:00",
+      source: "COPART",
+      branch: "TX - AMARILLO",
+      detailUrl: "https://www.copart.com/lot/23438969",
+      lossType: null,
+      name: "2015 CHEVROLET EXPRESS G3500 ",
+      saleDocument: "TX SALVAGE VEHICLE TITLE ",
+      stock: null,
+      thumbnailUrl:
+        "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX133/df26a058-4ba3-43ad-94e3-88dad6ce0775.JPG",
+      transmission: "AUTOMATIC",
+      vin: "1GB0G2CG7F1136360",
+      brand: "COPART",
+      externalId: null,
+      make: "CHEVROLET",
+      bodyStyle: "CUTAWAY",
+      cylinders: "8",
+      drive: "Rear-wheel drive",
+      engine: "6.0L  8",
+      fuelType: "FLEXIBLE FUEL",
+      madeIn: null,
+      model: "EXPRESS G3",
+      options: null,
+      series: null,
+      type: "AUTOMOBILE",
+      supplementaryFiles: [
+        {
+          id: 181,
+          contentFile: null,
+          contentPath: null,
+          type: "THUMBNAIL",
+          url:
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX133/df26a058-4ba3-43ad-94e3-88dad6ce0775.JPG",
+        },
+        {
+          id: 182,
+          contentFile: null,
+          contentPath: null,
+          type: "THUMBNAIL",
+          url:
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX133/a56c1df4-11c4-42ec-9dfd-9bfb1a491bd9.JPG",
+        },
+        {
+          id: 183,
+          contentFile: null,
+          contentPath: null,
+          type: "THUMBNAIL",
+          url:
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX133/72ce3f32-8e48-4b2e-bc33-daebc73c7e1e.JPG",
+        },
+        {
+          id: 184,
+          contentFile: null,
+          contentPath: null,
+          type: "THUMBNAIL",
+          url:
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX133/3ff1fc79-14bb-4e49-91e1-b10ee901b191.JPG",
+        },
+        {
+          id: 185,
+          contentFile: null,
+          contentPath: null,
+          type: "THUMBNAIL",
+          url:
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX133/cd077793-611d-4378-89e5-e7cb73bf8c6b.JPG",
+        },
+        {
+          id: 186,
+          contentFile: null,
+          contentPath: null,
+          type: "THUMBNAIL",
+          url:
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX133/9c29a16a-2da1-4fc8-b844-a2b900eda9c4.JPG",
+        },
+        {
+          id: 187,
+          contentFile: null,
+          contentPath: null,
+          type: "THUMBNAIL",
+          url:
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX133/f4421f2d-da01-44bb-9351-0edda03d03c0.JPG",
+        },
+        {
+          id: 188,
+          contentFile: null,
+          contentPath: null,
+          type: "THUMBNAIL",
+          url:
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX133/40c4eab2-412b-4dc8-9afb-6ec8609d2d77.JPG",
+        },
+        {
+          id: 189,
+          contentFile: null,
+          contentPath: null,
+          type: "THUMBNAIL",
+          url:
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX133/c4d947f5-d338-44a7-96f2-0205914c6704.JPG",
+        },
+        {
+          id: 190,
+          contentFile: null,
+          contentPath: null,
+          type: "THUMBNAIL",
+          url:
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX133/61dbbf13-f216-4d4f-92d0-030d3ebf0eb7.JPG",
+        },
+        {
+          id: 191,
+          contentFile: null,
+          contentPath: null,
+          type: "FULL_IMG",
+          url:
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX133/0711a6d2-d2f9-4bef-9db8-e39c09e83989.JPG",
+        },
+        {
+          id: 192,
+          contentFile: null,
+          contentPath: null,
+          type: "FULL_IMG",
+          url:
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX133/8f283ebd-829b-43cd-916c-3b73a7f1ef8e.JPG",
+        },
+        {
+          id: 193,
+          contentFile: null,
+          contentPath: null,
+          type: "FULL_IMG",
+          url:
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX133/ee5e89c8-cd43-434f-a8b2-8f8c56413373.JPG",
+        },
+        {
+          id: 194,
+          contentFile: null,
+          contentPath: null,
+          type: "FULL_IMG",
+          url:
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX133/063c1f2c-7561-4a2b-a4ea-4a3061963472.JPG",
+        },
+        {
+          id: 195,
+          contentFile: null,
+          contentPath: null,
+          type: "FULL_IMG",
+          url:
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX133/fee8d882-764f-4356-b4fc-d6ca41332961.JPG",
+        },
+        {
+          id: 196,
+          contentFile: null,
+          contentPath: null,
+          type: "FULL_IMG",
+          url:
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX133/daefb925-efb0-45dc-915d-95be3d73ab28.JPG",
+        },
+        {
+          id: 197,
+          contentFile: null,
+          contentPath: null,
+          type: "FULL_IMG",
+          url:
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX133/6722a451-b851-450f-aea1-a6817747a6a6.JPG",
+        },
+        {
+          id: 198,
+          contentFile: null,
+          contentPath: null,
+          type: "FULL_IMG",
+          url:
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX133/60a1eaf4-1533-4e2e-ba89-81084a567924.JPG",
+        },
+        {
+          id: 199,
+          contentFile: null,
+          contentPath: null,
+          type: "FULL_IMG",
+          url:
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX133/d5714b28-535f-4cfb-bdc5-ea0f1b27979c.JPG",
+        },
+        {
+          id: 200,
+          contentFile: null,
+          contentPath: null,
+          type: "FULL_IMG",
+          url:
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX133/c22e2f68-62a0-4f29-9297-4d7aa05ceff1.JPG",
+        },
+      ],
+      damage: "FRONT END",
+      year: "2015",
+      biddingRequests: [
+        {
+          id: 6,
+          auctionFee: null,
+          ucShippingFee: 300,
+          documentFee: 50,
+          bidAmount: 1700,
+          wpUserId: 34,
+          vehicle: 10,
+          status: "NEW",
+          createdAt: "2020-07-21T13:06:24+00:00",
+          updatedAt: "2020-07-21T13:06:24+00:00",
+        },
+      ],
+      currentBid: 2100,
+      currentUcShippingBid: 1700,
+      maxBid: null,
+      estRetailValue: 32856,
+      highlight: "ENHANCED VEHICLES",
+      vehicleKey: "YES",
+      location: null,
+      ucShippingFee: null,
+      documentFee: null,
+    },
+  ],
+  page: 1,
+  limit: 10,
+  total: "63080",
+};
